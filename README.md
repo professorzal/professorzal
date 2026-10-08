@@ -20,7 +20,7 @@
 
 ### about
 
-python · c/c++ · reverse engineering · web tooling · automation.
+python · · reverse engineering · automation.
 
 i build checkers, scrapers, memory tools, and small utilities.
 everything i publish lives on my channels first.
@@ -32,8 +32,9 @@ everything i publish lives on my channels first.
 | repo | what it is |
 |------|------------|
 | [99rdp.com-checker](https://github.com/professorzal/99rdp.com-checker) | WHMCS credential checker · full capture · proxy rotation · rate-limit resilience |
-| _your next repo_ | _one-line description_ |
-| _your next repo_ | _one-line description_ |
+| [zal-numberland-checker](https://github.com/professorzal/zal-numberland-checker) | numberland credential checker · full capture · multi-threaded |
+| [number4.im-checker](https://github.com/professorzal/number4.im-checker) | number4.im credential checker · full capture · proxy support |
+| [Hotmail-Outlook-Inboxer-](https://github.com/professorzal/Hotmail-Outlook-Inboxer-) | hotmail / outlook inbox reader · imap capture |
 
 ---
 
